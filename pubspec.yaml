@@ -1,5 +1,5 @@
 name: numda
-version: 0.0.1
+version: 0.0.2
 description: numeric library for dart (just like numpy)
 repository: https://github.com/ccc-dart/numda
 publish_to: https://pub.dev/
