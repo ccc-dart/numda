@@ -6,7 +6,7 @@ numeric library for dart (just like numpy)
 
 File: complex1.dart
 
-```
+```dart
 import 'package:numda/numda.dart';
 
 main() {
